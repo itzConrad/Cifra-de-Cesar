@@ -6,4 +6,4 @@ Natalia Matricardi
 João Victor Cassula Billó
 Luis Lindner
 
-Atividade realizada em uma máquina, utilizando a extensão Live Share
+Atividade realizada em apenas uma máquina, utilizando a extensão Live Share
