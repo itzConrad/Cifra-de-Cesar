@@ -1,0 +1,23 @@
+Crie um algoritmo que seja capaz de criar e decifrar a cifra de Cezar.
+
+A cifra de Cezar consiste em receber uma cadeia de caracteres e trocar cada 
+um dos caracteres por um caracter por um outro avançando uma certa quantidade
+de caracteres. Para ler a mensagem novamente, basta fazer o processo inverso.
+
+Exemplo de funcionamento:
+avanços de caracteres: 3
+Mensagem recebida: "Teste1"
+Mensagem criptografada: "Whvwh4"
+
+Alfabeto de caracteres minúsculos: "a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z,ç"
+Alfabeto de caracteres maiúsculos: "A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,Ç"
+Alfabeto de caracteres numéricos: "1,2,3,4,5,6,7,8,9,0"
+OBS: a cifra pode conter caracteres maiúsculos, minúsculos e números;
+
+Desenvolva um algoritmo que contenha um menu de ações onde o usuário poderá escolher entre:
+1. alterar o número de avanços de caracteres
+2. criptografar uma mensagem
+3. descriptografar uma mensagem
+4. sair do sistema
+
+OBS: utilize recursividade ao invés de loops de repetição.
